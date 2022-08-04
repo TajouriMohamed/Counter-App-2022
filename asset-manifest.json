@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Counter-App-2022/static/css/main.aa27b9c2.css",
+    "main.js": "/Counter-App-2022/static/js/main.cfee1484.js",
+    "static/js/787.5863b875.chunk.js": "/Counter-App-2022/static/js/787.5863b875.chunk.js",
+    "index.html": "/Counter-App-2022/index.html",
+    "main.aa27b9c2.css.map": "/Counter-App-2022/static/css/main.aa27b9c2.css.map",
+    "main.cfee1484.js.map": "/Counter-App-2022/static/js/main.cfee1484.js.map",
+    "787.5863b875.chunk.js.map": "/Counter-App-2022/static/js/787.5863b875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa27b9c2.css",
+    "static/js/main.cfee1484.js"
+  ]
+}
